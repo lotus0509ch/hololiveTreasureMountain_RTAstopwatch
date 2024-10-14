@@ -1,4 +1,8 @@
 # ホロライブお宝マウンテンのRTA用タイマー
+[ダウンロード](https://github.com/lotus0509ch/hololiveTreasureMountain_RTAstopwatch/archive/refs/heads/main.zip)
+
+これでいいのか不安...（単純にリポジトリの[Download Zip]のリンク張ってるだけ）
+
 ## 必要ソフト
 - [LiveSplit](https://livesplit.org/downloads/)
 - [RunLeash](https://autosplithelper-firebase.web.app/docs/02install/)
