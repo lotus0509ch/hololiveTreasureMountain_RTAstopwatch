@@ -5,6 +5,13 @@
 
 ## 3timesDouble_ShuffleDeck
 ### ランダムデッキで3回RTAする用のセット
+- RunLeashによるタイマーの挙動
+  1. デッキシャッフル画面でタイマーリセット＆停止
+  2. デッキ選択画面（シャッフル後自動で遷移する画面）でタイマースタート
+  3. 最大お宝の演出で記録
+  4. 合計6回の記録でカウントストップ
+- 推奨ゲームウィンドウサイズ：1920x1080px
+
 - LiveSplitの設定ファイル
   - お宝マウンテン_3ダブル.lsl
     - 右クリックメニューの[Open Layout]->[From File]にて選択してください
@@ -15,4 +22,4 @@
 - RunLeashの設定フォルダ
   - お宝マウンテン_シャッフル3ダブル
     - Fileメニューの[プロファイルをインポート]にて選択してください
-    - ![image](https://github.com/user-attachments/assets/bf754802-7429-4620-9a86-b688d8d9a579)
+      ![image](https://github.com/user-attachments/assets/bf754802-7429-4620-9a86-b688d8d9a579)
