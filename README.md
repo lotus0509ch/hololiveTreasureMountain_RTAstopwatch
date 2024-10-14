@@ -1,4 +1,4 @@
-# ホロライブお宝マウンテンのRTA用タイマー（？）
+# ホロライブお宝マウンテンのRTA用タイマー
 ## 必要ソフト
 - [LiveSplit](https://livesplit.org/downloads/)
 - [RunLeash](https://autosplithelper-firebase.web.app/docs/02install/)
