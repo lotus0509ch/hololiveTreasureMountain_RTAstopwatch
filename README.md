@@ -4,7 +4,7 @@
 - [RunLeash](https://autosplithelper-firebase.web.app/docs/02install/)
 
 ## 3timesDouble_ShuffleDeck
-### ランダムデッキで3回RTAする用のセット
+### ランダムデッキで3回ダブルのRTAする用のセットです
 - RunLeashによるタイマーの挙動
   1. デッキシャッフル画面でタイマーリセット＆停止
   2. デッキ選択画面（シャッフル後自動で遷移する画面）でタイマースタート
