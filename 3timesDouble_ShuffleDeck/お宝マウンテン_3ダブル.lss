@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>
+  </GameName>
+  <CategoryName>
+  </CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>43</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="10/02/2024 16:25:31" isStartedSynced="False" ended="10/02/2024 16:25:43" isEndedSynced="True" />
+    <Attempt id="2" started="10/04/2024 13:20:37" isStartedSynced="False" ended="10/04/2024 13:23:17" isEndedSynced="True" />
+    <Attempt id="3" started="10/04/2024 13:23:17" isStartedSynced="True" ended="10/04/2024 13:24:36" isEndedSynced="True" />
+    <Attempt id="4" started="10/04/2024 13:24:36" isStartedSynced="True" ended="10/04/2024 13:27:16" isEndedSynced="True" />
+    <Attempt id="5" started="10/04/2024 13:27:16" isStartedSynced="True" ended="10/04/2024 13:29:39" isEndedSynced="True" />
+    <Attempt id="6" started="10/04/2024 13:29:39" isStartedSynced="True" ended="10/04/2024 13:30:33" isEndedSynced="True" />
+    <Attempt id="7" started="10/04/2024 13:30:33" isStartedSynced="True" ended="10/04/2024 13:35:03" isEndedSynced="True" />
+    <Attempt id="8" started="10/04/2024 13:35:03" isStartedSynced="True" ended="10/04/2024 13:36:10" isEndedSynced="True" />
+    <Attempt id="9" started="10/04/2024 13:36:11" isStartedSynced="True" ended="10/04/2024 13:37:21" isEndedSynced="True" />
+    <Attempt id="10" started="10/04/2024 13:37:21" isStartedSynced="True" ended="10/04/2024 13:40:10" isEndedSynced="True" />
+    <Attempt id="11" started="10/04/2024 13:40:10" isStartedSynced="True" ended="10/04/2024 13:42:03" isEndedSynced="True" />
+    <Attempt id="12" started="10/04/2024 13:42:03" isStartedSynced="True" ended="10/04/2024 13:45:07" isEndedSynced="True" />
+    <Attempt id="13" started="10/04/2024 13:45:07" isStartedSynced="True" ended="10/04/2024 13:46:45" isEndedSynced="True" />
+    <Attempt id="14" started="10/04/2024 13:46:45" isStartedSynced="True" ended="10/04/2024 13:48:40" isEndedSynced="True" />
+    <Attempt id="15" started="10/04/2024 13:48:40" isStartedSynced="True" ended="10/04/2024 13:55:56" isEndedSynced="True">
+      <RealTime>00:07:16.3765410</RealTime>
+    </Attempt>
+    <Attempt id="16" started="10/04/2024 13:56:18" isStartedSynced="True" ended="10/04/2024 14:00:10" isEndedSynced="True" />
+    <Attempt id="17" started="10/04/2024 14:00:11" isStartedSynced="True" ended="10/04/2024 14:00:56" isEndedSynced="True" />
+    <Attempt id="18" started="10/04/2024 14:00:56" isStartedSynced="True" ended="10/04/2024 14:04:03" isEndedSynced="True" />
+    <Attempt id="19" started="10/04/2024 14:04:03" isStartedSynced="True" ended="10/04/2024 14:05:38" isEndedSynced="True" />
+    <Attempt id="20" started="10/04/2024 14:05:38" isStartedSynced="True" ended="10/04/2024 14:08:30" isEndedSynced="True" />
+    <Attempt id="21" started="10/04/2024 14:08:30" isStartedSynced="True" ended="10/04/2024 14:09:25" isEndedSynced="True" />
+    <Attempt id="22" started="10/04/2024 14:09:25" isStartedSynced="True" ended="10/04/2024 14:11:55" isEndedSynced="True" />
+    <Attempt id="23" started="10/04/2024 14:11:55" isStartedSynced="True" ended="10/04/2024 14:16:40" isEndedSynced="True" />
+    <Attempt id="24" started="10/04/2024 14:16:41" isStartedSynced="True" ended="10/04/2024 14:22:52" isEndedSynced="True" />
+    <Attempt id="25" started="10/04/2024 14:22:52" isStartedSynced="True" ended="10/04/2024 14:24:42" isEndedSynced="True" />
+    <Attempt id="26" started="10/04/2024 14:24:42" isStartedSynced="True" ended="10/04/2024 14:31:35" isEndedSynced="True" />
+    <Attempt id="27" started="10/04/2024 14:31:35" isStartedSynced="True" ended="10/04/2024 14:36:07" isEndedSynced="True" />
+    <Attempt id="28" started="10/04/2024 14:36:07" isStartedSynced="True" ended="10/04/2024 14:37:48" isEndedSynced="True" />
+    <Attempt id="29" started="10/04/2024 14:37:48" isStartedSynced="True" ended="10/04/2024 14:40:19" isEndedSynced="True" />
+    <Attempt id="30" started="10/04/2024 14:40:19" isStartedSynced="True" ended="10/04/2024 14:41:12" isEndedSynced="True" />
+    <Attempt id="31" started="10/04/2024 14:41:12" isStartedSynced="True" ended="10/04/2024 14:42:53" isEndedSynced="True" />
+    <Attempt id="32" started="10/04/2024 14:42:53" isStartedSynced="True" ended="10/04/2024 14:50:24" isEndedSynced="True" />
+    <Attempt id="33" started="10/04/2024 14:50:24" isStartedSynced="True" ended="10/04/2024 14:57:38" isEndedSynced="True">
+      <RealTime>00:07:13.4602650</RealTime>
+    </Attempt>
+    <Attempt id="34" started="10/14/2024 09:45:04" isStartedSynced="True" ended="10/14/2024 09:45:20" isEndedSynced="True" />
+    <Attempt id="35" started="10/14/2024 09:52:13" isStartedSynced="True" ended="10/14/2024 09:52:30" isEndedSynced="True" />
+    <Attempt id="36" started="10/14/2024 09:52:31" isStartedSynced="True" ended="10/14/2024 09:52:41" isEndedSynced="True" />
+    <Attempt id="37" started="10/14/2024 09:53:33" isStartedSynced="True" ended="10/14/2024 09:53:34" isEndedSynced="True" />
+    <Attempt id="38" started="10/14/2024 09:53:35" isStartedSynced="True" ended="10/14/2024 09:53:36" isEndedSynced="True" />
+    <Attempt id="39" started="10/14/2024 09:53:36" isStartedSynced="True" ended="10/14/2024 09:53:37" isEndedSynced="True" />
+    <Attempt id="40" started="10/14/2024 09:53:38" isStartedSynced="True" ended="10/14/2024 09:53:39" isEndedSynced="True" />
+    <Attempt id="41" started="10/14/2024 09:53:42" isStartedSynced="True" ended="10/14/2024 10:02:57" isEndedSynced="True" />
+    <Attempt id="42" started="10/14/2024 10:02:59" isStartedSynced="True" ended="10/14/2024 10:03:03" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>１つ目</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>２つ目</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>３つ目</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>４つ目</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>５つ目</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>６つ目（クリア）</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
