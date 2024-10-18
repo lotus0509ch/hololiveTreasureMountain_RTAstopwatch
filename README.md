@@ -1,13 +1,12 @@
 # ホロライブお宝マウンテンのRTA用タイマー
-[ダウンロード](https://github.com/lotus0509ch/hololiveTreasureMountain_RTAstopwatch/archive/refs/heads/main.zip)
-
-これでいいのか不安...（単純にリポジトリの[Download Zip]のリンク張ってるだけ）
 
 ## 必要ソフト
 - [LiveSplit](https://livesplit.org/downloads/)
 - [RunLeash](https://autosplithelper-firebase.web.app/docs/02install/)
 
 ## 3timesDouble_ShuffleDeck
+[ダウンロード](https://github.com/lotus0509ch/hololiveTreasureMountain_RTAstopwatch/raw/refs/heads/main/3timesDouble_ShuffleDeck.zip)
+
 ### ランダムデッキで3回ダブルのRTAする用のセットです
 - RunLeashによるタイマーの挙動
   1. デッキシャッフル画面でタイマーリセット＆停止
