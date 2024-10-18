@@ -5,8 +5,7 @@
   </GameName>
   <CategoryName>
   </CategoryName>
-  <LayoutPath>
-  </LayoutPath>
+  <LayoutPath>C:\Users\samin\Documents\RTA\お宝マウンテン_3ダブル.lsl</LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">
@@ -16,7 +15,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>43</AttemptCount>
+  <AttemptCount>50</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="10/02/2024 16:25:31" isStartedSynced="False" ended="10/02/2024 16:25:43" isEndedSynced="True" />
     <Attempt id="2" started="10/04/2024 13:20:37" isStartedSynced="False" ended="10/04/2024 13:23:17" isEndedSynced="True" />
@@ -64,6 +63,17 @@
     <Attempt id="40" started="10/14/2024 09:53:38" isStartedSynced="True" ended="10/14/2024 09:53:39" isEndedSynced="True" />
     <Attempt id="41" started="10/14/2024 09:53:42" isStartedSynced="True" ended="10/14/2024 10:02:57" isEndedSynced="True" />
     <Attempt id="42" started="10/14/2024 10:02:59" isStartedSynced="True" ended="10/14/2024 10:03:03" isEndedSynced="True" />
+    <Attempt id="43" started="10/18/2024 15:48:32" isStartedSynced="False" ended="10/18/2024 16:05:21" isEndedSynced="True" />
+    <Attempt id="44" started="10/18/2024 16:05:23" isStartedSynced="True" ended="10/18/2024 16:06:37" isEndedSynced="True">
+      <PauseTime>00:00:06.5400330</PauseTime>
+    </Attempt>
+    <Attempt id="45" started="10/18/2024 16:08:45" isStartedSynced="True" ended="10/18/2024 16:08:48" isEndedSynced="True" />
+    <Attempt id="46" started="10/18/2024 16:09:26" isStartedSynced="True" ended="10/18/2024 16:13:45" isEndedSynced="True" />
+    <Attempt id="47" started="10/18/2024 16:17:58" isStartedSynced="True" ended="10/18/2024 16:32:06" isEndedSynced="True" />
+    <Attempt id="48" started="10/18/2024 16:34:50" isStartedSynced="True" ended="10/18/2024 16:42:01" isEndedSynced="True" />
+    <Attempt id="49" started="10/18/2024 16:42:01" isStartedSynced="True" ended="10/18/2024 17:04:46" isEndedSynced="True">
+      <RealTime>00:22:45.4477048</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -71,6 +81,9 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
+        <SplitTime name="zero">
+          <RealTime>00:00:00</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime />
       <SegmentHistory />
@@ -80,6 +93,9 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
+        <SplitTime name="zero">
+          <RealTime>00:00:00</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime />
       <SegmentHistory />
@@ -89,6 +105,9 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
+        <SplitTime name="zero">
+          <RealTime>00:00:00</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime />
       <SegmentHistory />
@@ -98,6 +117,9 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
+        <SplitTime name="zero">
+          <RealTime>00:00:00</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime />
       <SegmentHistory />
@@ -107,6 +129,9 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
+        <SplitTime name="zero">
+          <RealTime>00:00:00</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime />
       <SegmentHistory />
@@ -116,6 +141,9 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
+        <SplitTime name="zero">
+          <RealTime>00:00:00</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime />
       <SegmentHistory />
